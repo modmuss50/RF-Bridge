@@ -51,7 +51,7 @@ minecraft {
 group = 'RF-Bridge'
 
 dependencies {
-    compile 'RebornCore:RebornCore-1.10.2:+:dev'
+    
 }
 
 processResources {

@@ -11,7 +11,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 
-@Mod(name = "RF Bridge", modid = "rfbridge", version = "@MODVERSION@", dependencies = "required-after:reborncore;required-after:Forge@[12.18.1.2080,);")
+@Mod(name = "RF Bridge", modid = "rfbridge", version = "@MODVERSION@", dependencies = "required-after:Forge@[12.18.1.2080,);")
 public class RFBridge {
 
     @Mod.Instance
